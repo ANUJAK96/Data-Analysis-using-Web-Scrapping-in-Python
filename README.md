@@ -1,0 +1,2 @@
+# Data-Analysis-using-Web-Scrapping-in-Python
+Wrote web crawling program that repeatedly extracts URLs from Stock web pages(CNN Money’s Market Movers), downloads web pages or userspecified types of links, primarily using Beautiful soup package in python. • Analyzed data which is extracted from the websites and are stored in a csv file. • Suited for searching the stocks which display with Present open value, close value and volume of that time.
